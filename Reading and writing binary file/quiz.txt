@@ -1,0 +1,26 @@
+Programowanie w C++
+Aztecq
+Co oznacza skrot "CPU" w kontekscie komputerow?
+Central Processing Unit
+Computer Power Unit
+Central Power Unit
+Computer Processing Unit
+a
+Ktory z ponizszych jest systemem operacyjnym?
+Microsoft Word
+Google Chrome
+Windows 10
+Adobe Photoshop
+c
+Ktore z ponizszych urzadzen jest przykladem urzadzenia wejscia?
+Monitor
+Klawiatura
+Glosniki
+Drukarka
+b
+Co to jest "HTML"?
+Jezyk programowania uzywany do tworzenia aplikacji
+Jezyk opisu stron internetowych
+Typ bazy danych
+Protokół sieciowy
+b

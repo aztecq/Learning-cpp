@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+
+using namespace std;
+
+int main(){
+
+	string napis = "W blasku porannego słońca, rosa na trawie lśni niczym diamenty, a śpiew ptaków wypełnia powietrze spokojem, przypominając o pięknie natury.";
+	string szukany = "diamenty";
+
+
+	size_t pozycja = napis.find(szukany);
+	if (pozycja != string::npos)
+		cout << "Znaleziono na pozycji:" << pozycja << endl;
+	return 0;
+}

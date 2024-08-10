@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+	string imie;
+	cout << "Podaj swoje imie:";
+	cin >> imie;
+
+	int dlugosc= imie.length();
+
+	if (imie[dlugosc - 1] == 'a')
+		cout << "Wydaje mi sie, ze Twoja plec to kobieta";
+	else cout << "Wydaje mi sie, ze Twoja plec to mezczyzna";
+
+	return 0;
+}
